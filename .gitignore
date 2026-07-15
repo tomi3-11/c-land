@@ -1,0 +1,9 @@
+# Binaries
+a.out
+*.o
+*.i
+*.s
+vgcore.*
+
+# Stage binaries (no extension)
+stage-0/hello
