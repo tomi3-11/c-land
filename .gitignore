@@ -7,3 +7,4 @@ vgcore.*
 
 # Stage binaries (no extension)
 stage-0/hello
+stage-0/hello_manual
